@@ -8,7 +8,7 @@ from datetime import datetime
 _req_get_   = requests.get
 _req_post_ = requests.post
 _js_lo_    = json.loads
-pri_    = pri_
+pri_    = print
 inp_    = input
 opn_ = open
 exi_  = exit
